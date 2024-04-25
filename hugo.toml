@@ -1,0 +1,10 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "Mia's Space"
+theme = 'paper'
+
+[params]
+color = 'light'
+github = 'mia-zhao'
+name = 'Mia'
+bio = 'Unleash your potential'
