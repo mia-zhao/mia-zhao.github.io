@@ -3,6 +3,10 @@ menus = "main"
 title = "Projects"
 +++
 
+### [Little Happiness](https://happiness.meworks.app/)
+
+Little Happiness is a mobile application crafted to celebrate your moments of joy. It enables users to journal their happy moments daily and provides a calendar view for easy visualization of entries. Adding an extra touch of delight, the app features a surprise element that unveils a past happiness moment—imagine the joy when you open a lucky star. Little Happiness was developed using Flutter.
+
 ### [Blog to EPUB](https://blog2epub.vercel.app/)
 
 Blog to EPUB allows users to select multiple blog posts easily and view them in the extension's page. Users can then download the selected links as an EPUB file for offline reading.
