@@ -9,4 +9,14 @@ _My career path has had its share of adventures, including an unplanned extended
 
 As for why I’ve shifted roles over the years? I’m all about challenging myself and expanding my horizons.
 
-I have lived in 7 cities in 3 countries and I am currently based in Seattle, WA. If you're curious about living in different parts of the world or just wanna talk tech, my contact info's right [here](/contact).
+My life values:
+
+1. Live in the moment, expand experiences, and strive for excellence
+2. Be aware of, observe, understand, and accept my emotions
+3. Use my mind scientifically and care for my body
+4. Keep curiosity alive and be a lifelong learner
+5. Keep taking notes and develop a personal knowledge system (a second brain)
+6. Have the courage to start fresh and learn from others
+7. Show empathy and respect others
+8. Be altruistic and do valuable things
+9. Elevate my energy and embrace the "yes, and..." approach
